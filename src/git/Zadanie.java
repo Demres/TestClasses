@@ -11,4 +11,3 @@ public class Zadanie {
 		System.out.println(text);
 	}
 }
-
