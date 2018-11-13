@@ -13,6 +13,7 @@ public class main {
 		
 		Zadanie zadanie = new Zadanie("Zadanko");
 		zadanie.show();
+		zadanie.edit("zadanko1");
 		
 	}
 
