@@ -10,6 +10,9 @@ public class main {
 		System.out.println(date);
 		System.out.println("New branch here");
 		System.out.println("Do usuniecia");
+		
+		Zadanie zadanie = new Zadanie("Tuturutu");
+		zadanie.show();
 	}
 
 }
