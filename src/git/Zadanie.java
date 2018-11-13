@@ -1,7 +1,6 @@
 package git;
 
 public class Zadanie {
-
 	String text = new String();
 	
 	public Zadanie(String text) {
